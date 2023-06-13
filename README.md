@@ -1,4 +1,4 @@
-### Hello! I'm Victor. I love technology. See some projects I'm working on.
+### Hello! I'm Vitor. I love technology. See some projects I'm working on.
 
 <!--
 **vtrpaulon/vtrpaulon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
